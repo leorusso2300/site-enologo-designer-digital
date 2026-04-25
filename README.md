@@ -10,7 +10,7 @@ O objetivo foi criar um site institucional para apresentar o trabalho do enólog
 ## 🔗 Acesse o site
 O site está hospedado no GitHub Pages e pode ser acessado clicando no link abaixo:
 
-👉 https://seu-usuario.github.io/seu-repositorio/
+👉 https://leorusso2300.github.io/site-enologo-designer-digital/
 
 ---
 
